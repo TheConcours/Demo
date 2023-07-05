@@ -1,2 +1,2 @@
 # Demo
-demonstration 
+社員にgitの説明をしたときのdemonstrationです。
